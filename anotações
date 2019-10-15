@@ -1,0 +1,9 @@
+Aula 15/10/2019
+&& = and =E
+|| = or = OU
+
+timestamp = site calcula data a ser utilizada no solidity
+
+Funções novas: modifier; balance; transfer;
+
+adress(this) = endereço da conda do Smart Contract
