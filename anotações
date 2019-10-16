@@ -7,3 +7,7 @@ timestamp = site calcula data a ser utilizada no solidity
 Funções novas: modifier; balance; transfer;
 
 adress(this) = endereço da conda do Smart Contract
+
+ethereumdai pesquisa sobre criptomoedas
+
+chamando funções: nomeDaFuncao() escreva o nome da função e logo após abra (e, se houver parametros informe, depois)
