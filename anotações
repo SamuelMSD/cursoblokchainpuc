@@ -11,3 +11,12 @@ adress(this) = endereço da conda do Smart Contract
 ethereumdai pesquisa sobre criptomoedas
 
 chamando funções: nomeDaFuncao() escreva o nome da função e logo após abra (e, se houver parametros informe, depois)
+
+Aula 17/10/2019
+Função struct é onde se tem um bloco para realizar a qualificação da parte
+
+[] aray
+
+Função mapping é como um aray só que ele gera o identificador deste elemento. Veja:mapping(string => ofertante) public ofertantes;
+Para adicionar um item no mapping: listaOfertantes[endereço] = ofertanteX; 
+onde listaOfertantes é nome da variável do tipo mapping, endereço é o dado que será a chave(indice) e ofertanteX é o valor que será armazenado no mapping
