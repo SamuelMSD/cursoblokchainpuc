@@ -20,3 +20,8 @@ Função struct é onde se tem um bloco para realizar a qualificação da parte
 Função mapping é como um aray só que ele gera o identificador deste elemento. Veja:mapping(string => ofertante) public ofertantes;
 Para adicionar um item no mapping: listaOfertantes[endereço] = ofertanteX; 
 onde listaOfertantes é nome da variável do tipo mapping, endereço é o dado que será a chave(indice) e ofertanteX é o valor que será armazenado no mapping
+
+
+Aula 22/10/2019 - Criação de Tokens
+Herança de contrto
+Auto destruição ou o fim do contrato
