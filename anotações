@@ -24,7 +24,7 @@ onde listaOfertantes é nome da variável do tipo mapping, endereço é o dado q
 
 Aula 22/10/2019 - Criação de Tokens
 Herança de contrato
-Auto destruição ou fim de um smart contratc
+Auto destruição ou fim de um smart contratc (selfdestruct)
 
 ERC = forum de propostas para melhoria do Ethereum
 ERC - 20 foi a primeira proposta aceita para que fosse criada uma interface padrão para Token
@@ -33,6 +33,8 @@ Token ERC-20 é aquele que é desenvolvido de acordo com a convenção feita apo
 Aprove = função como se fosse uma procuração que um terceiro emita seus tokens
 Allowance = função para lembrar quanto de token pode ser gasto
 Approval = função onde uma pessoa aprova quanto um terceiro pode gastar de seus tokens 
+
+Aula 25/10/2019
 
 
 
