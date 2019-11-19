@@ -34,7 +34,11 @@ Aprove = função como se fosse uma procuração que um terceiro emita seus toke
 Allowance = função para lembrar quanto de token pode ser gasto
 Approval = função onde uma pessoa aprova quanto um terceiro pode gastar de seus tokens 
 
-Aula 25/10/2019
+Aula 19/11/2019
+
+ABI é a interface que faz a comunicção da pagina em HTML e JAVASCRIPT com o smart contract SOLIDITY
+ele é localizado ao final  lado esquerdo do remix.ethereum. è um botão que faz o link diretamente.
+Fica na janela de compilação
 
 
 
