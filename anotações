@@ -40,5 +40,10 @@ ABI é a interface que faz a comunicção da pagina em HTML e JAVASCRIPT com o s
 ele é localizado ao final  lado esquerdo do remix.ethereum. è um botão que faz o link diretamente.
 Fica na janela de compilação
 
+Promises:
+  function()
+    .then(escreve a função a ser chamada em caso de sucesso. Em geral aqui vem uma arrow function)
+    .catch(escreve a função a ser chamada em caso de erro. Em geral uma arrow function também)
+    
 
 
